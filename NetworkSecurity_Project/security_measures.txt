@@ -1,0 +1,4 @@
+1. Changed router password and enabled WPA2 encryption.
+2. Disabled WPS on router.
+3. Installed and enabled UFW firewall on Kali Linux.
+4. Firewall now blocks all incoming connections and allows outgoing.

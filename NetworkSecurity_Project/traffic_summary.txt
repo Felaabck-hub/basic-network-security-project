@@ -1,0 +1,5 @@
+Used Wireshark to capture network traffic. 
+Visited google.com and example.com while capturing.
+Observed DNS requests translating domain names to IP addresses.
+Saw HTTP packets for unencrypted traffic.
+No unusual traffic found.

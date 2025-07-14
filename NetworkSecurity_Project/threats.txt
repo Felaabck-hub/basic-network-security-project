@@ -1,0 +1,5 @@
+Virus – A program that spreads by attaching to other files.
+Worm – A program that spreads by itself over networks.
+Trojan – A fake software that secretly harms your system.
+Phishing – Fake messages/websites tricking users into giving info.
+MITM – An attacker secretly intercepting communication.

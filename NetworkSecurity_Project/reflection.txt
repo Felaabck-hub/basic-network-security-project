@@ -1,0 +1,6 @@
+Network security is important to protect personal data and devices. 
+Even small actions like changing Wi-Fi passwords, enabling firewalls, and using HTTPS can stop hackers. 
+In a big company, I would also use stronger tools like intrusion detection systems (IDS), VPNs, and secure firewalls.
+If I was to teach others, I would explain network security like locking your house. 
+If you don’t, anyone can walk in. 
+I would show them how to spot phishing links, use strong passwords, and avoid public Wi-Fi without protection.
